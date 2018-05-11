@@ -22,7 +22,6 @@ Revision:1
 #include <mysql.h>
 
 
-
 #define PREDICTION_MODE 0
 #define MIN_EPOCHS       10                  // Minimum number of epochs per feature
 #define MAX_EPOCHS       10                  // Max epochs per feature
