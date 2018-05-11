@@ -96,7 +96,6 @@ void write_txt_file (unsigned int customer_id, unsigned short movie_id);
 void close_txt_file ();
 
 
-
 void calc_features(int TOTAL_FEATURES);
 
 double sigmoid (double alpha);
