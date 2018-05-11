@@ -6,7 +6,7 @@ SocialFALCON is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 See <http://www.gnu.org/licenses/>
 
-Authors: N. Ampazis and T. Emmanouilidis (2014)
+Authors: N. Ampazis and T. Emmanouilidis (2018)
 Original codebase contribution by George Tsagas
 
 Revision:1
