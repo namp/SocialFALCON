@@ -1,6 +1,6 @@
 SocialFALCON is an efficient constrained matrix factorization algorithm for providing recommendations in social rating networks. The algorithm is described in the following paper:
 
-N.Ampazis and T. Emmanouilidis:"A Matrix Factorization Algorithm for Efficient Recommendations in Social Networks Using Constrained Optimization", Journal of Machine Learning Research, 2014. Submitted.
+N.Ampazis, T. Emmanouilidis, and F. Sakketou:"A Matrix Factorization Algorithm for Efficient Recommendations in Social Rating Networks Using Constrained Optimization", Transactions on Intelligent Systems and Technology, 2018. Submitted.
 
 The codes provided here implement all the algorithms that are benchmarked in the experimental section of the paper on the Epinions and Flixter datasets.
 
