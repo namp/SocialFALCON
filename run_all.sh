@@ -6,7 +6,7 @@
 
 #See <http://www.gnu.org/licenses/>
 
-#Authors: N. Ampazis and T. Emmanouilidis (2014)
+#Authors: N. Ampazis and T. Emmanouilidis (2018)
 
 #Revision:1
 
