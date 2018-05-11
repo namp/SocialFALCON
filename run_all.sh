@@ -10,7 +10,6 @@
 
 #Revision:1
 
-
 #/bin/bash
 
 server="localhost";  #where the mysql database is
