@@ -114,7 +114,6 @@ void write_txt_file (unsigned int customer_id, unsigned short movie_id);
 void close_txt_file ();
 
 
-
 void calc_features(int TOTAL_FEATURES);
 
 void calc_user_moviebag (int custId, int *pmovie_id, int num_items, int *c_probe_movies, int c_probe_items, int TOTAL_FEATURES);
